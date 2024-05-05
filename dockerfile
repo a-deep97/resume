@@ -1,6 +1,6 @@
 FROM node:14
 
-WORKDIR /resume/src/
+WORKDIR /resume/resume/src/
 
 #copy package.json to working directory
 
