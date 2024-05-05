@@ -1,6 +1,6 @@
 FROM node:14
 
-WORKDIR /usr/src/app
+WORKDIR /resume/src/
 
 #copy package.json to working directory
 
